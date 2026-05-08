@@ -1,16 +1,14 @@
-# prayr-privacy
-Privacy policy for Prayr, available on the App Store.
+Here’s the same policy as before, with TryPrayers throughout (you typed “teyprayers”; I used TryPrayers to match the app).
 
-
-Privacy Policy — Prayr
+Privacy Policy — TryPrayers
 Last updated: May 9, 2026
 
-This policy describes how Prayr (“the app”) handles information when you use it. If anything here conflicts with platform rules, the stricter requirement applies.
+This policy describes how TryPrayers (“the app”) handles information when you use it. If anything here conflicts with platform rules, the stricter requirement applies.
 
-Contact: For privacy questions about Prayr, email hello@heptatech.io and include “Prayr” in the subject line.
+Contact: For privacy questions about TryPrayers, email hello@heptatech.io and include “TryPrayers” in the subject line.
 
 1. Summary
-Prayr is built for prayer and reflection on your device. This version of the app does not offer sign-in or cloud sync. We do not sell your data. We do not integrate third-party analytics SDKs in this version of the app.
+TryPrayers is built for prayer and reflection on your device. This version of the app does not offer sign-in or cloud sync. We do not sell your data. We do not integrate third-party analytics SDKs in this version of the app.
 
 2. What we collect (and what we do not)
 2.1 Data you enter in the app
@@ -34,15 +32,16 @@ If you allow notifications, the app may schedule local reminders on your device 
 We do not use notifications to track you across other apps or websites.
 
 5. App Store and platform services
-If you download Prayr from the Apple App Store, Apple’s terms and privacy policy also apply to how the store handles distribution, updates, and certain device-level diagnostics and platform features outside our control.
+If you download TryPrayers from the Apple App Store, Apple’s terms and privacy policy also apply to how the store handles distribution, updates, and certain device-level diagnostics and platform features outside our control.
 
 Your device operating system may provide privacy controls (for example, for notifications and app data) that apply in addition to this policy.
 
 6. Children’s privacy
-Prayr is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information to us in a way that concerns you, contact us using the email above.
+TryPrayers is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information to us in a way that concerns you, contact us using the email above.
 
 7. Changes to this policy
 We may update this policy if the app or our practices change. When we do, we will update the “Last updated” date at the top of this document (and, where appropriate, the in-app privacy information).
 
 8. Contact
-Questions about privacy or this app: hello@heptatech.io (include “Prayr” in the subject line).
+Questions about privacy or this app: hello@heptatech.io (include “TryPrayers” in the subject line).
+
